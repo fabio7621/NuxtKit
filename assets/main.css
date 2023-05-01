@@ -460,6 +460,11 @@ body {
 	border-radius: 25px;
 	background-color: #36a837;
 	color: #fff;
+	transition: 0.6s;
+}
+.comehere-send-message:hover {
+	background-color: #fff;
+	color: #36a837;
 }
 .comehere-right {
 	width: 40%;
