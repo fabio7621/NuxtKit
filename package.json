@@ -10,7 +10,7 @@
 	},
 	"devDependencies": {
 		"@types/node": "^18",
-		"nuxt": "^3.4.2"
+		"nuxt": "^3.12.4"
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
